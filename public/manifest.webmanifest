@@ -1,0 +1,16 @@
+{
+  "name": "NEON PROXY",
+  "short_name": "NEON PROXY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040b16",
+  "theme_color": "#061426",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
