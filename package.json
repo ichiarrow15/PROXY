@@ -1,0 +1,9 @@
+{
+  "name": "neon-proxy-cloud",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Installable neon web preview app with an allowlisted cloud preview endpoint",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
